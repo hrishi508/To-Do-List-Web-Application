@@ -6,4 +6,4 @@ How to deploy the website on localhost?
 2. The site is up and running on port number 3000. Enter in browser url - localhost:3000
 3. Enjoy!
 
-App has been deployed on the following link: 
+App has been deployed on the following link: https://fathomless-waters-58140.herokuapp.com/
